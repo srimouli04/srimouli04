@@ -8,3 +8,6 @@
 - 📫 How to reach me: ... srimouli04@yahoo.co.in / 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/srimouli/).
 - 😄 Pronouns: ... he/him
 
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimouli04&layout=compact&hide=tsql&show_icons=true" />
+<br />
